@@ -29,4 +29,4 @@ Currently they are **custom slots**, but in the future they will be changed to r
 
 **Credits:**
 
-**Oleg - for his amazing project which makes creating old survivors so much easier.**
+**Oleg - for his amazing project which has Material Maps & Socket Attachments options and general easy use in CustomizationItemDB
