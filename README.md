@@ -11,7 +11,7 @@ A mod created by me that aims to bring back all old survivor models &amp; their 
 - Quentin
 
 All characters above currently have old prestige + old legacy outfits.
-Currently they are **custom slots**, but in the future they will be changed to replace existing slots so other people will see them.
+Currently they are **custom slots**, but in the future they will be changed to replace existing slots. 
 
 **Changes/Fixes from my old version of this mod:**
 
@@ -24,7 +24,7 @@ Currently they are **custom slots**, but in the future they will be changed to r
 
 - While my goal is to return 1:1 physics for the old cosmetics, currently they are not working, so no ETA. <br>
 - This mod will be continuously worked on over time with new characters/cosmetics being added. <br>
-- In the future a new custom hair material will be used, which greatly improves quality of the hair
+- In the future a new custom hair material will be used, which greatly improves quality of the hair <br>
 ^ (you can already see this with Nea Bob Wig hair 😉).
 
 **Credits:**
