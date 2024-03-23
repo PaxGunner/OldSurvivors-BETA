@@ -10,6 +10,7 @@ A mod created by me that aims to bring back all old survivor models &amp; their 
 - Nea (+ old Nea Bob Wig - recreated by [**Oleg**](https://github.com/olshab) 😉
 - Quentin
 - Ace
+- David
 
 **All characters above currently have:** <br>
 
