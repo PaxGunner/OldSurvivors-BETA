@@ -26,4 +26,6 @@ While my goal is to return 1:1 physics for the old cosmetics, currently they are
 This mod will be continuously worked on over time with new characters/cosmetics being added.
 In the future a new custom hair material will be used, which greatly improves quality of the hair (you can already see this with Nea Bob Wig hair 😉).
 
+**Credits:**
 
+**Oleg - for his amazing project which makes creating old survivors so much easier.**
