@@ -7,7 +7,7 @@ A mod created by me that aims to bring back all old survivor models &amp; their 
 - Meg [NOT WORKING, will fix/release in future patch].
 - Claudette
 - Jake
-- Nea (+ old Nea Bob Wig - recreated by [Oleg](https://github.com/olshab)😉
+- Nea (+ old Nea Bob Wig - recreated by [**Oleg**](https://github.com/olshab)😉
 - Quentin
 - Ace
 
@@ -35,4 +35,4 @@ Currently they are **custom slots**, but in the future they will be changed to r
 
 **CREDITS:**
 
-**Oleg - for his amazing project which has Material Maps & Socket Attachments options and general easy use in CustomizationItemDB.**
+**[Oleg](https://github.com/olshab) - for his amazing project which has Material Maps & Socket Attachments options and general easy use in CustomizationItemDB.**
