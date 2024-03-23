@@ -24,7 +24,8 @@ Currently they are **custom slots**, but in the future they will be changed to r
 
 - While my goal is to return 1:1 physics for the old cosmetics, currently they are not working, so no ETA. <br>
 - This mod will be continuously worked on over time with new characters/cosmetics being added. <br>
-- In the future a new custom hair material will be used, which greatly improves quality of the hair (you can already see this with Nea Bob Wig hair 😉).
+- In the future a new custom hair material will be used, which greatly improves quality of the hair
+^ (you can already see this with Nea Bob Wig hair 😉).
 
 **Credits:**
 
