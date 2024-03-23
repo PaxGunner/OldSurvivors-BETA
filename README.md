@@ -9,6 +9,7 @@ A mod created by me that aims to bring back all old survivor models &amp; their 
 - Jake
 - Nea [ + old Nea Bob Wig - recreated by [Oleg]([url](https://github.com/olshab))😉
 - Quentin
+- Ace
 
 All characters above currently have old prestige + old legacy outfits. <br>
 Currently they are **custom slots**, but in the future they will be changed to replace existing slots. 
