@@ -11,7 +11,11 @@ A mod created by me that aims to bring back all old survivor models &amp; their 
 - Quentin
 - Ace
 
-All characters above currently have old prestige + old legacy outfits. <br>
+All characters above currently have: <br>
+
+Old Prestige + Old Legacy outfits. <br>
+Old UI Icons <br>
+1:1 Matching Descriptions <br>
 Currently they are **custom slots**, but in the future they will be changed to replace existing slots. 
 
 **Changes/Fixes from my old version of this mod:**
