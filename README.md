@@ -33,6 +33,6 @@ Currently they are **custom slots**, but in the future they will be changed to r
 - In the future a new custom hair material will be used, which greatly improves quality of the hair <br>
 ^ (you can already see this with Nea Bob Wig hair 😉).
 
-**Credits:**
+**CREDITS:**
 
-**Oleg - for his amazing project which has Material Maps & Socket Attachments options and general easy use in CustomizationItemDB.
+**Oleg - for his amazing project which has Material Maps & Socket Attachments options and general easy use in CustomizationItemDB.**
