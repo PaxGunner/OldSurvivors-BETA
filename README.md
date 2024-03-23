@@ -4,7 +4,7 @@ A mod created by me that aims to bring back all old survivor models &amp; their 
 **Currently supported survivors:**
 
 - Dwight
-- Meg [NOT WORKING, will release in future patch].
+- Meg [NOT WORKING, will fix/release in future patch].
 - Claudette
 - Jake
 - Nea [ + old Nea Bob Wig - recreated by [Oleg]([url](https://github.com/olshab))😉
