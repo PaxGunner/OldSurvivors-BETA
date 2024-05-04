@@ -1,4 +1,5 @@
-# OldSurvivors-BETA
+# OldSurvivors-BETA'
+# [OUTDATED UNTIL UPDATED TO UE5.2 / WHEN MODDING RETURNS ]
 A mod created by me that aims to bring back all old survivor models &amp; their cosmetics 1:1 from old DBD, with 1:1 reverted physics.
 
 **Currently supported survivors:**
