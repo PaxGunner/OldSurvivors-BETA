@@ -24,7 +24,7 @@ Currently they are **custom slots**, but in the future they will be changed to r
 **Changes/Fixes from my old version of this mod:**
 
 - Legacy is now exactly 1:1 as 3.0.0 - 4.4.2, there is no differences at all.
-- Fixed characters being too shiny and completely disabled some values to further match 3.0.0
+- Disabled sRGB on ORM to fix some models being too shiny and completely disabled some values to further match 3.0.0
 - Hair positions are now 1:1, thanks to being attached to Hair Sockets.
 - Glasses/ACC positions are now 1:1, thanks to socket attachments.
 
