@@ -8,7 +8,7 @@ A mod created by me that aims to bring back all old survivor models &amp; their 
 - Meg
 - Claudette
 - Jake
-- Nea (+ old Nea Bob Wig - recreated by [**Oleg**](https://github.com/olshab)) 😉
+- Nea (+ old Nea Bob Wig - recreated by [**Oleg**](https://github.com/olshab ))
 - Quentin
 - Ace
 - David
